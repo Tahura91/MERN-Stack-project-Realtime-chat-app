@@ -74,7 +74,7 @@ Contributions and feedback are welcome! Fork the repo, make your changes, and su
 
 ## 💬 Connect With Me
 
-If you found this project useful or interesting, let’s connect on LinkedIn (https://www.linkedin.com/in/tahura-hayath-483397243) or drop a ⭐ on the repo!
+If you found this project useful or interesting, let’s connect on [LinkedIn](https://www.linkedin.com/in/tahura-hayath-483397243) or drop a ⭐ on the repo!
 
 ```
 
