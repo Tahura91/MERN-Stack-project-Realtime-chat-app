@@ -1,4 +1,3 @@
-
 # 💬 VibeChat – Real-Time Chat App
 
 **VibeChat** is a full-stack real-time chat application built using the **MERN stack**. It features secure authentication, real-time messaging, dynamic user presence, theme customization, and image sharing. Designed for an engaging user experience backed by a powerful backend.
@@ -57,6 +56,7 @@ git clone https://github.com/Tahura91/MERN-Stack-project-Realtime-chat-app.git
 
 - chat-lock feature
 - video sharing
+- GIF sharing
 - Typing indicators  
 - Group chats  
 - Message notifications  
