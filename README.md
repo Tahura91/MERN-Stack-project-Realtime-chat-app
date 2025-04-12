@@ -28,7 +28,8 @@ _Deployed on **Render**, with database hosted on **MongoDB Atlas**._
 - Git & GitHub  
 - Render  
 - Postman  
-- VS Code  
+- VS Code
+- my personal ai code reviewer 
 
 ---
 
